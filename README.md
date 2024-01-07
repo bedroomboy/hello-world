@@ -1,2 +1,2 @@
 # hello-world
-my new repository 
+my new repository. just getting started with github. new to the community.
